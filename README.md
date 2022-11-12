@@ -29,7 +29,8 @@ services of big market players.
 
 #### Homepage
 
-![homepage](https://user-images.githubusercontent.com/78134473/201479441-d9b8f35b-1713-4b53-864f-ed93e329c5a5.png)
+![screely-1668265134559](https://user-images.githubusercontent.com/78134473/201480140-96f88dc9-e265-4da6-9c0d-a00e70ba429d.png)
+
 
 #### Sign Up
 
