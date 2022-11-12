@@ -2,8 +2,7 @@
 <div align="center">
 
 # TravelBees
-   <br>
-   <hr>
+</div>
 
 # Project Description
 
@@ -16,38 +15,15 @@ provide the convenience of customizing the trip according to the
 customer’s budget because this is something that is lacking in the 
 services of big market players.
 
-# Features Implemented
+## Features
 
-## 1. Frontend
-
-1. Landing Page for social links and Site intro.
-2. Login and SignUp page for auth.
-3. User Homepage
-4. Blog Writing Page
-5. User spcific Blogs page
-6. User Settings
-7. Single Blog Post
-
-## 2. Backend
-
-1. Auth Routes:
-   - SignUp
-   - Login
-   - Password Hash (Using BCrypt)
-2. User Routes:
-   - Get User details
-   - Update User
-   - Delete User
-3. Post Routes:
-   - Create Blog
-   - Get All Blogs
-   - Update Blog
-   - Get Specific Blog
-   - Delete Blog
-3. Categories Routes:
-   - Create Categories
-   - Add Categories
-<br/>
+1. User authentication & authorization
+2. RESTful API calls with Axios NPM
+3. State management with Redux
+4. Forms created with Redux-Form
+5. Routes handled with React-Router-DOM
+6. Payment handled with Stripe
+7. Use of both class-based and fuction-based components
 
 # Screenshots
 
@@ -75,16 +51,6 @@ services of big market players.
 - Add Tours (Admin)
 ![tourlist](https://user-images.githubusercontent.com/78134473/201479527-70738132-7e1a-445b-8ad1-2b60adb8a416.png)
 
-
-## Features
-
-1. User authentication & authorization
-2. RESTful API calls with Axios NPM
-3. State management with Redux
-4. Forms created with Redux-Form
-5. Routes handled with React-Router-DOM
-6. Payment handled with Stripe
-7. Use of both class-based and fuction-based components
 
 ## Getting Started
 
