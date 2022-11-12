@@ -8,9 +8,9 @@ const Footer = ({ light }) => {
     <FooterWrapper className='body-container'>
       <Logo light={light} />
       <div className='copyright'>
-        &copy;{new Date().getFullYear()} Christina Yun
-            <a href='https://github.com/yjcyun/GoTravel'><IoLogoGithub className='icon' /></a>
-        <a href='https://christinayun.ca'><IoIosGlobe className='icon' /></a>
+        &copy;{new Date().getFullYear()} TravelBees
+            <a><IoLogoGithub className='icon' /></a>
+        <a><IoIosGlobe className='icon' /></a>
       </div>
     </FooterWrapper>
   )

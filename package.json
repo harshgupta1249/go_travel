@@ -1,5 +1,5 @@
 {
-  "name": "gotravel",
+  "name": "TravelBees",
   "version": "1.0.0",
   "description": "tour",
   "main": "app.js",
@@ -12,7 +12,7 @@
     "start": "node server.js",
     "heroku-postbuild": "cd client && npm install --only=dev && npm install && npm run build"
   },
-  "author": "Christina Yun",
+  "author": "TravelBees",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",

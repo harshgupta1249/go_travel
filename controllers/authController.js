@@ -160,7 +160,7 @@ exports.forgotPassword = catchAsync(async (req, res, next) => {
   // 3) Send it to user's email
   const resetURL = `${req.protocol}://${req.get('host')}/api/v1/users/resetPassword/${resetToken}}`;
 
-  const message = `You recently requested to reset your password for your GoTravel account. Click the link below to reset it.\n ${resetURL}.\nIf you didn't forget your password, please ignore this email.`;
+  const message = `You recently requested to reset your password for your TravelBees account. Click the link below to reset it.\n ${resetURL}.\nIf you didn't forget your password, please ignore this email.`;
 
   try {
     await sendEmail({
