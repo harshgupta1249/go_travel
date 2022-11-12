@@ -85,7 +85,7 @@ npm start
 
 ## Contributors
 
-- [Ayush Garg](https://github.com/Ayush-019)(2020IMT-019)
-- [Gautam Manocha](https://github.com/Gautam22112001)
-- [Harsh Gupta](https://github.com/harshgupta1249)
-- [Ishaan Sharma](https://github.com/sharmaishaan21)
+- [Ayush Garg](https://github.com/Ayush-019) (2020IMT-019)
+- [Gautam Manocha](https://github.com/Gautam22112001) (2020IMT-034)
+- [Harsh Gupta](https://github.com/harshgupta1249) (2020IMT-035)
+- [Ishaan Sharma](https://github.com/sharmaishaan21) (2020IMT-040)
